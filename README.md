@@ -1,4 +1,4 @@
-# EDITH — Multi-Provider, Voice & Vision Powered AI Assistant & System Agent
+# EDITH — Multi-Provider, Voice & Vision Powered AI Assistant & System Agent **BUT** Classic UI and experience.
 
 [![CI](https://github.com/Tiyatrotist/E.D.I.T.H/actions/workflows/ci.yml/badge.svg)](https://github.com/Tiyatrotist/E.D.I.T.H/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
